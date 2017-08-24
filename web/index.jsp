@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <h1>ДИМА ЛОХ</h1>
   </body>
 </html>
